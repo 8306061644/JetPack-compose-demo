@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Jetpack</string>
+    <string name="preference_authenticate_only">authenticate_only</string>
+    <string name="authentication_destination">authentication_destination</string>
+    <string name="autofill_service">Autofill Service</string>
+    <string name="authentication_title">Authentication</string>
+    <string name="authentication_description">Hold your finger against the fingerprint sensor.</string>
+    <string name="use_password">Use password</string>
+    <string name="password">Password</string>
+    <string name="credit_card">Credit Card</string>
+
+
+</resources>
